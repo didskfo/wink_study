@@ -1,0 +1,101 @@
+#hole{
+    width: 800px;
+    height: 1008px;
+    top: -1711px;
+    left: -380px;
+    background: #FFFFFF;
+}
+#header{
+
+}
+#user{
+    width: 113px;
+    height: 105px;
+    top: -1689px;
+    left: -361px;
+    /* position: relative; */
+}
+#name{
+    width: 210px;
+    height: 47px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    top: -1671px;
+    left: -220px;
+    /* position: relative; */
+}
+#dot{
+    width: 40px;
+    height: 58px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    top: -1683px;
+    left: 322px;
+    /* position: relative; */
+
+}
+#picture{
+    width: 800px;
+    height: 683px;
+    top: -1562px;
+    left: -380px;
+    /* position: relative; */
+
+}
+#bottom{
+
+}
+#heart{
+    width: 80px;
+    height: 70px;
+    top: -836px;
+    left: -361px;
+    /* position: relative; */
+
+}
+#talk{
+    width: 90px;
+    height: 83px;
+    top: -849px;
+    left: -281px;
+    /* position: relative; */
+
+}
+#tri{
+    width: 105px;
+    height: 92px;
+    top: -858px;
+    left: -204px;
+    /* position: relative; */
+
+}
+#save{
+    width: 99px;
+    height: 83px;
+    top: -836px;
+    left: 292px;
+    /* position: relative; */
+
+}
+#date{
+    width: 55px;
+    height: 19px;
+    top: -744px;
+    left: -348px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ACACAC;
+    /* position: relative; */
+
+}
