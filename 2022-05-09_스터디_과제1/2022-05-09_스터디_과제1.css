@@ -2,18 +2,26 @@
     background: black;
     width: 1440px;
     height: 1024px;
-    top: -525px;
-    left: -315px;
+    /* top: -525px;
+    left: -315px; */
+    display: flex;
+    flex-direction: column;
 }
 #header{
     display: flex;
+    flex-direction: row;
+}
+#info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 #insta_img{
     width: 160px;
     height: 160px;
     top: 71px;
     left: 71px;
-    position: relative;
+    /* position: relative; */
 }
 #insta{
     color: white;
@@ -26,7 +34,7 @@
     font-weight: 400;
     font-size: 48px;
     line-height: 56px;
-    position: relative;
+    /* position: relative; */
 }
 #plus{
     color: rgba(255,255,255,0.7);
@@ -38,14 +46,16 @@
     font-size: normal;
     font-weight: 400;
     font-size: 42px;
-    position: relative;
+    /* position: relative; */
 }
 #star{
     width: 36px;
     height: 36px;
     left: 253px;
     top: 183px;
-    position: relative;
+    /* position: relative; */
+    display: flex;
+    flex-direction: row;
 }
 #million{
     width: 102px;
@@ -58,7 +68,7 @@
     font-size: 36px;
     line-height: 42px;
     color: rgba(255, 255, 255, 0.7);
-    position: relative;
+    /* position: relative; */
 }
 #button{
     width: 237px;
@@ -67,7 +77,7 @@
     top: 130px;
     background: rgba(196, 196, 196, 0.4);
     border-radius: 35px;
-    position: relative;
+    /* position: relative; */
 }
 #update{
     width: 167px;
@@ -80,7 +90,7 @@
     font-size: 42px;
     line-height: 49px;
     color: #3971FF;
-    position: relative;
+    /* position: relative; */
 }
 #content{
     display: flex;
@@ -92,7 +102,7 @@
     left: 68px;
     top: 278px;
     border-radius: 10px;
-    position: relative;
+    /* position: relative; */
 }
 #image2{
     width: 383px;
@@ -100,7 +110,7 @@
     left: 528px;
     top: 278px;
     border-radius: 10px;
-    position: relative;
+    /* position: relative; */
 }
 #image3{
     width: 383px;
@@ -108,5 +118,5 @@
     left: 988px;
     top: 278px;
     border-radius: 10px;
-    position: relative;
+    /* position: relative; */
 }
