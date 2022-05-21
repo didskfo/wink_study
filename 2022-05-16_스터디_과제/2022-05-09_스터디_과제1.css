@@ -1,0 +1,123 @@
+#hole{
+    background: black;
+    width: 1440px;
+    height: 1024px;
+    /* top: -525px;
+    left: -315px; */
+    display: flex;
+    flex-direction: column;
+}
+#header{
+    display: flex;
+    flex-direction: row;
+}
+#info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#insta_img{
+    width: 160px;
+    height: 160px;
+    top: 71px;
+    left: 71px;
+    /* position: relative; */
+}
+#insta{
+    color: white;
+    width: 217px;
+    height: 44px;
+    left: 253px;
+    top: 71px;
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    /* position: relative; */
+}
+#plus{
+    color: rgba(255,255,255,0.7);
+    width: 236px;
+    height: 43px;
+    left: 253px;
+    top: 136px;
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 42px;
+    /* position: relative; */
+}
+#star{
+    width: 36px;
+    height: 36px;
+    left: 253px;
+    top: 183px;
+    /* position: relative; */
+    display: flex;
+    flex-direction: row;
+}
+#million{
+    width: 102px;
+    height: 36px;
+    left: 523px;
+    top: 183px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: rgba(255, 255, 255, 0.7);
+    /* position: relative; */
+}
+#button{
+    width: 237px;
+    height: 71px;
+    left: 1094px;
+    top: 130px;
+    background: rgba(196, 196, 196, 0.4);
+    border-radius: 35px;
+    /* position: relative; */
+}
+#update{
+    width: 167px;
+    height: 51px;
+    left: 1129px;
+    top: 140px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    color: #3971FF;
+    /* position: relative; */
+}
+#content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#image1{
+    width: 383px;
+    height: 685.8px;
+    left: 68px;
+    top: 278px;
+    border-radius: 10px;
+    /* position: relative; */
+}
+#image2{
+    width: 383px;
+    height: 685.8px;
+    left: 528px;
+    top: 278px;
+    border-radius: 10px;
+    /* position: relative; */
+}
+#image3{
+    width: 383px;
+    height: 685.8px;
+    left: 988px;
+    top: 278px;
+    border-radius: 10px;
+    /* position: relative; */
+}
